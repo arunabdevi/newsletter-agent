@@ -28,8 +28,7 @@ Python, LangGraph, LangChain, OpenAI (gpt-4o-mini), DuckDuckGo search, Wikipedia
 ```
 
 ## Example output
-See [examples/sample_newsletter.md](examples/sample_newsletter.md).
-
+See example branch
 
 
 ## What I learned
